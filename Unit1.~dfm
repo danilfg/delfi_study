@@ -119,6 +119,7 @@ object fName: TfName
       Height = 340
       Align = alClient
       DataSource = fDM.DSData
+      ReadOnly = True
       TabOrder = 0
       TitleFont.Charset = DEFAULT_CHARSET
       TitleFont.Color = clWindowText
@@ -141,6 +142,7 @@ object fName: TfName
       Height = 114
       Align = alClient
       DataSource = fDM.DSAdressess
+      ReadOnly = True
       TabOrder = 0
       TitleFont.Charset = DEFAULT_CHARSET
       TitleFont.Color = clWindowText

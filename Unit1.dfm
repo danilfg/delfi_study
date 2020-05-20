@@ -1,6 +1,6 @@
 object fName: TfName
-  Left = 443
-  Top = 220
+  Left = 525
+  Top = 218
   Width = 828
   Height = 548
   Caption = #1054#1090#1076#1077#1083' '#1082#1072#1076#1088#1086#1074
