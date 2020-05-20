@@ -36,6 +36,8 @@ var
 
 implementation
 
+uses Unit2;
+
 {$R *.dfm}
 
 procedure TfName.Button1Click(Sender: TObject);
